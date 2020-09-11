@@ -11,7 +11,11 @@
 
 ## 💡About me
 
-I am a **college student**, my major is computer, and I am currently learning related **computer network basics** and **programming** related knowledge.
+- **name**:HXM
+
+- **school**:GDUT
+
+- *I am a **college student**, my major is computer, and I am currently learning related **computer network basics** and **programming** related knowledge*.
 
 
 ## 📃 License
