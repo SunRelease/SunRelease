@@ -11,9 +11,6 @@
 
 ## 💡About me
 
-- **name**:HXM
-
-- **school**:GDUT
 
 - *I am a **college student**, My major is computer network engineering, and I am currently learning related **computer network basics** and **programming** related knowledge*.
 
